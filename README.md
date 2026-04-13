@@ -12,6 +12,11 @@ Select a folder, and the program will move files into the appropriate subfolders
 1. Clone the repository: `git clone https://github.com/your-username/file-organizer.git`
 
 ## Usage
+Run the .exe file inside .\File-Organizer\dist:
+```bash
+File Organizer.exe
+```
 Run the Python script:
 ```bash
 python organize.py
+```

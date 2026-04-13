@@ -31,7 +31,6 @@ Select a folder, and the program will move files into the appropriate subfolders
 1. **Go to the [Releases page](https://github.com/whyjay-0/File-Organizer/releases)**
 2. Download the precompiled executable for your operating system
 3. **Run the executable:**
-   - Navigate to the `dist/` folder in the project directory.
    - Double-click the `File Organizer.exe` file to run the application.
 
 ## Usage

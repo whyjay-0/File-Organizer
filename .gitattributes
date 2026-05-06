@@ -1,2 +1,12 @@
-*.tex linguist-vendored
-*.html linguist-vendored
+# Ignore build artifacts
+build/* linguist-generated=true
+dist/* linguist-generated=true
+
+# Ignore IDE config files
+.idea/* linguist-vendored
+
+# Ignore generated HTML reports
+*.html linguist-generated=true
+
+# Ensure Python is counted
+*.py linguist-language=Python
